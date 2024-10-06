@@ -1,0 +1,5 @@
+1-Create Record File
+2-Show Members List
+3-Enter Record Information
+4-Display Record Particulars
+5-Exit System
